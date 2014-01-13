@@ -1,0 +1,269 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:ice="http://ns.adobe.com/incontextediting">
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>atelier morales</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="file:///C|/Documents and Settings/Tere/Mes documents/SITE ATELIER MORALES/Templates/mm_restaurant1.css" type="text/css" />
+<style type="text/css">
+<!--
+.Style10 {
+	color: #FF0080;
+	font-size: 55px;
+}
+.Style9 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 59px;
+	color: #000000;
+}
+.Style3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FF0080;
+	font-weight: bold;
+}
+.Style18 {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+TETE {
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	color: #000;
+}
+body, td, th {
+	background-color: #FFFFFF;
+	font-weight: bold;
+	font-size: 12px;
+}
+.Style19 {
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.Style19 {
+	font-size: 30px;
+	text-align: center;
+	color: #666;
+	font-family: Arial, Helvetica, sans-serif;
+	font-weight: bold;
+}
+.Style20 {
+	font-size: 55px
+}
+.tete {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	font-weight: bolder;
+	background-color: #FFF;
+	color: #000;
+}
+.Style21 {
+	color: #666
+}
+a:link {
+	text-decoration: none;
+	color: #000;
+}
+a:visited {
+	text-decoration: none;
+	color: #000;
+}
+a:hover {
+	text-decoration: none;
+	color: #FFF;
+}
+a:active {
+	text-decoration: none;
+	font-weight: normal;
+}
+#navigation p {
+	color: #666;
+	text-align: center;
+	font-weight: bold;
+	font-size: 14px;
+}
+.bodyText .Style18 {
+	color: #666;
+}
+#navigation table tr .Style18 div {
+	color: #666;
+}
+.Style201 {	font-size: 55px
+}
+.Style91 {	font-family: Arial, Helvetica, sans-serif;
+	font-size: 59px;
+	color: #000000;
+}
+.Style181 {	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.Style211 {	color: #666
+}
+.Style182 {	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.art {
+	color: #333;
+	background-color: #FFF;
+	font-size: 24px;
+	text-align: center;
+}
+.Style1812 {
+	font-size: 12px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #F0F;
+}
+.Style2111 {color: #666
+}
+.Style2111 {color: #666
+}
+.bodyText .Style18 {
+	text-align: center;
+}
+.bodyText .Style182 {
+	text-align: center;
+}
+.AZUL {
+	color: #F06;
+}
+.tete {
+}
+h1,h2,h3,h4,h5,h6 {
+	font-weight: bold;
+}
+.tete table tr .logo div #navigation2 tr th p {
+	color: #000;
+}
+.tete table tr .logo div #navigation2 tr .art .art .art {
+	color: #666;
+}
+.CENTRE {	text-align: center;
+}
+.CENTRE {	text-align: center;
+}
+.CENTRE {	font-size: 14px;
+	font-weight: bold;
+}
+.CENTRE {	text-align: center;
+}
+.archinegro {
+	color: #000;
+	font-size: 24px;
+}
+.cintillo {
+	color: #000;
+}
+.archiblanco {	font-family: "Arial Black", Gadget, sans-serif;
+	color: #FFF;
+	background-color: #CC0150;
+}
+.fondogris {	background-color: #CCC;
+	font-family: Arial, Helvetica, sans-serif;
+	border-color: #CCC;
+	font-size: 12px;
+	color: #000;
+}
+.fondorosa {	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 24px;
+	background-color: #CC0150;
+}
+-->
+</style>
+<script src="../includes/ice/ice.js" type="text/javascript"></script>
+<script type="text/javascript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+
+
+<!-- Start WOWSlider.com HEAD section -->
+	<link rel="stylesheet" type="text/css" href="../engine1/style.css" media="screen" />
+	<script type="text/javascript" src="../engine1/jquery.js"></script>
+<!-- End WOWSlider.com HEAD section -->
+
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+<body class="tete">
+<table width="97%" border="0" cellspacing="0" cellpadding="0">
+  <tr bgcolor="#99ccff">
+    <td width="12" nowrap="nowrap" bgcolor="#FFFFFF">&nbsp;</td>
+    <td height="30" colspan="2" nowrap="nowrap" bgcolor="#FFFFFF" class="logo"><div align="left" id="TETE"><!-- TemplateBeginEditable name="EditRegion1" -->
+      <table width="1197" height="71" border="0" id="navigation2">
+        <tr>
+          <th width="323" rowspan="2" scope="col"><p><img src="../IMAGES/ateliermorales.jpg" alt="" width="301" height="43" border="0" /></p></th>
+          <th width="105" height="30" align="center" valign="middle" bgcolor="#FFFF00" class="fondogris" scope="col"><a href="../EXPOS.html" class="fondogris">EXHIBITIONS</a></th>
+          <th width="209" align="center" valign="middle" class="fondogris" scope="col"><a href="../GALERIES.html" class="fondogris">GALLERIES &amp; MUSEUMS</a><a href="../PRESS.html" class="fondogris"></a></th>
+          <th width="105" height="30" align="center" valign="middle" bgcolor="#FFFF00" class="fondogris" scope="col"><a href="../PRESS.html" class="fondogris">PRESS</a><a href="../GALERIES.html" class="fondogris"></a></th>
+          <th width="105" align="center" valign="middle" class="fondogris" scope="col"><a href="../CV.html">BIOGRAPHY</a></th>
+          <th width="210" align="center" valign="middle" bgcolor="#FFFF00" class="fondogris" scope="col"><a href="../PUBLICATIONS.html">PUBLICATIONS</a></th>
+          <th width="110" align="center" valign="middle" bgcolor="#FFFF00" class="fondogris" scope="col"><a href="../CONTACT.html" class="fondogris">CONTACT</a></th>
+        </tr>
+        <tr class="fondorosa">
+          <th height="35" colspan="3" bgcolor="#FFFFFF" class="fondorosa" scope="col"><a href="../ART.html" class="fondorosa"><span class="BLANCO"><span class="BLANCO"><span class="artblanco">art</span></span></span></a></th>
+          <th height="35" colspan="3" bgcolor="#FFFFFF" class="fondorosa" scope="col"><span class="archinegro"><a href="../ARCHITECTURE.html">architecture</a></span></th>
+        </tr>
+      </table>
+    <!-- TemplateEndEditable -->
+    
+    
+    
+      <table width="1192" border="0" cellspacing="0">
+      
+      
+      
+        <!-- TemplateBeginEditable name="EditRegion6" -->
+        
+        
+        
+        
+          <tr>
+            <td height="20" colspan="8" class="Style182">&nbsp;</td>
+          </tr>
+          <tr>
+            
+
+<!-- Start WOWSlider.com BODY section id=wowslider-container1 -->
+	<div id="wowslider-container1">
+	<div class="ws_images"><ul>
+<li><img src="../data1/images/top_terrace,__balelatina_jpeg.jpg" alt="Top Terrace,  BALELATINA JPEG" title="Top Terrace,  BALELATINA JPEG" id="wows1_0"/></li>
+<li><img src="../data1/images/havanita_faade__avec_projet_17_mai_copie_copie.jpg" alt="havanita façade  avec projet 17 mai copie copie" title="havanita façade  avec projet 17 mai copie copie" id="wows1_1"/></li>
+<li><img src="../data1/images/1etage.jpg" alt="1ETAGE" title="1ETAGE" id="wows1_2"/></li>
+<li><img src="../data1/images/villa_montsouris_coupe_longitudinale.jpg" alt="Villa Montsouris Coupe longitudinale" title="Villa Montsouris Coupe longitudinale" id="wows1_3"/></li>
+</ul></div>
+<div class="ws_bullets"><div>
+<a href="../ARCHITECTURE.html" title="Top Terrace,  BALELATINA JPEG"><img src="../data1/tooltips/top_terrace,__balelatina_jpeg.jpg" alt="Top Terrace,  BALELATINA JPEG"/>1</a>
+<a href="../ARCHITECTURE.html" title="havanita façade  avec projet 17 mai copie copie"><img src="../data1/tooltips/havanita_faade__avec_projet_17_mai_copie_copie.jpg" alt="havanita façade  avec projet 17 mai copie copie"/>2</a>
+<a href="../ARCHITECTURE.html" title="1ETAGE"><img src="../data1/tooltips/1etage.jpg" alt="1ETAGE"/>3</a>
+<a href="../ARCHITECTURE.html" title="Villa Montsouris Coupe longitudinale"><img src="../data1/tooltips/villa_montsouris_coupe_longitudinale.jpg" alt="Villa Montsouris Coupe longitudinale"/>4</a>
+</div></div>
+<span class="wsl"><a href="../ARCHITECTURE.html">Joomla Slideshow</a> Architecture</span>
+	<a href="../ARCHITECTURE.html"></a>
+	<div class="ws_shadow"></div>
+	</div>
+	<script type="text/javascript" src="../engine1/wowslider.js"></script>
+	<script type="text/javascript" src="../engine1/script.js"></script>
+<!-- End WOWSlider.com BODY section -->
+
+<td width="596" height="453"><a href="../ART.html"><img src="../IMAGES/BOHIOS/recogida b.jpg" alt="BOHIOS " width="596" height="420" border="0" align="right" /></a></td>
+            <td width="604"><p class="CENTRE"><a href="../ARCHITECTURE.html"><<img src="../IMAGES/VILLA MONTSOURIS SITE/Villa Montsouris Coupe longitudinale.jpg" width="596" height="420" border="0" /></a></p></td>
+          </tr>
+          
+          <!-- TemplateEndEditable -->
+      </table>
+      <p><a href="../PRESS.html" class="tete"></a></p>
+      
+</table>
+</body>
+</html>

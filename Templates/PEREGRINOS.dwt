@@ -1,0 +1,285 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>atelier morales</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="file:///C|/Documents and Settings/Tere/Mes documents/SITE ATELIER MORALES/Templates/mm_restaurant1.css" type="text/css" />
+<style type="text/css">
+<!--
+.Style10 {
+	color: #FF0080;
+	font-size: 55px;
+}
+.Style9 {font-family: Arial, Helvetica, sans-serif;
+	font-size: 59px;
+	color: #000000;
+}
+.Style3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FF0080;
+	font-weight: bold;
+}
+.Style18 {
+	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+body {
+	background-color: #FFFFFF;
+}
+body,td,th {
+	color: #000000;
+	background-color: #FFFFFF;
+}
+.Style19 {
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.Style19 {font-size: 24px}
+.Style20 {font-size: 55px}
+.Style21 {
+	color: #FF0080;
+	font-size: 24px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: right;
+}
+#navigation table tr .Style18 div .Style18 {
+	color: #666;
+}
+#navigation table tr .Style18 div {
+	color: #666;
+}
+a:link {
+	text-decoration: none;
+}
+a:visited {
+	text-decoration: none;
+}
+a:hover {
+	text-decoration: underline;
+}
+a:active {
+	text-decoration: none;
+	color: #F0F;
+}
+.nombres {
+	color: #666;
+}
+.Style181 {	font-size: 14px;
+	font-weight: bold;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: center;
+}
+.Style211 {	color: #FF0080;
+	font-size: 24px;
+	text-align: left;
+}
+.Style201 {font-size: 55px}
+.Style91 {font-family: Arial, Helvetica, sans-serif;
+	font-size: 59px;
+	color: #000000;
+}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+<script type="text/javascript">
+<!--
+function MM_openBrWindow(theURL,winName,features) { //v2.0
+  window.open(theURL,winName,features);
+}
+//-->
+</script>
+</head>
+<body>
+<table width="110%" border="0" cellspacing="0" cellpadding="0">
+  <tr bgcolor="#99ccff">
+	<td width="15" nowrap="nowrap" bgcolor="#FFFFFF">&nbsp;</td>
+	<td height="19" colspan="2" nowrap="nowrap" bgcolor="#FFFFFF" class="logo">&nbsp;</td>
+	<td width="20" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+
+	<tr bgcolor="#003399">
+	<td width="15" nowrap="nowrap" bgcolor="#C0C0C0">&nbsp;</td>
+	<td height="19" colspan="2" nowrap="nowrap" bgcolor="#C0C0C0" class="navText" id="navigation">&nbsp;</td>
+	<td bgcolor="#C0C0C0">&nbsp;</td>
+	</tr>
+
+	<tr bgcolor="#ffffff">
+	<td width="15" valign="top"><img src="file:///C|/Documents and Settings/Tere/Mes documents/SITE ATELIER MORALES/Templates/mm_spacer.gif" alt="" width="8" height="1" border="0" /></td>
+	<td width="4" valign="top"><p align="right" class="Style3">&nbsp;</p>
+	  <p align="right" class="Style3">&nbsp;</p>
+	  <p align="left" class="Style3">&nbsp;</p>	  </td>
+	<td width="939" valign="top"><table width="945" height="50" border="0">
+	    <tr>
+	      <td width="935"><table width="110%" border="0" cellspacing="0" cellpadding="0">
+	        <tr bgcolor="#99ccff">
+	          <td width="15" nowrap="nowrap" bgcolor="#FFFFFF">&nbsp;</td>
+	          <td height="60" colspan="2" nowrap="nowrap" bgcolor="#FFFFFF" class="logo"><div align="left">
+	            <p><span class="Style91"><span class="Style10">a</span><span class="Style201">telier<span class="Style10">m</span>orales</span></span> <span class="Style9"><a href="javascript:;"></p>
+	            </div></td>
+	          <td width="20" bgcolor="#FFFFFF">&nbsp;</td>
+	          </tr>
+	        <tr bgcolor="#003399">
+	          <td width="15" nowrap="nowrap" bgcolor="#C0C0C0">&nbsp;</td>
+	          <td height="34" colspan="2" nowrap="nowrap" bgcolor="#C0C0C0" class="navText" id="navigation2"><table width="911" height="26" border="0">
+	            <tr>
+	              <th width="131" class="Style181" scope="row"><div align="center"><a href="../index.html" class="Style181">SERIES</a></div></th>
+	              <td width="131" class="Style181"><div align="center"><a href="../EXPOS.html" class="Style181">EXPOSITIONS</a></div></td>
+	              <td width="131" class="Style181"><div align="center" class="Style181"><a href="../GALERIES.html">GALERIES</a></div></td>
+	              <td width="131" class="Style181"><div align="center" class="Style181">TEXTES</div></td>
+	              <td width="97" class="Style181"><div align="center" class="Style181">CV</div></td>
+	              <td width="130" class="Style181"><div align="center"><a href="../CONTACT.html">CONTACT</a></div></td>
+	              <td width="130" class="Style181"><div align="center" class="Style211"></div></td>
+	              </tr>
+	            </table></td>
+	          <td bgcolor="#C0C0C0">&nbsp;</td>
+	          </tr>
+	        <tr bgcolor="#ffffff">
+	          <td width="15" valign="top"><img src="file:///C|/Documents and Settings/Tere/Mes documents/SITE ATELIER MORALES/Templates/mm_spacer.gif" alt="" width="8" height="1" border="0" /></td>
+	          <td width="4" valign="top"><p align="right" class="Style3">&nbsp;</p>
+	            <p align="right" class="Style3">&nbsp;</p>
+	            <p align="left" class="Style3">&nbsp;</p></td>
+	          <td width="939" valign="top"><table width="919" height="50" border="0">
+	            <tr>
+	                <td width="901"><div align="center"><span class="Style211"><span class="Style21"> <strong>P I L G R I M S / P E R E G R I N O S</strong></span></span></div></td>
+	                </tr>
+	              </table>
+	            <table width="906" height="712" border="0" cellpadding="2" cellspacing="0">
+	              <!-- TemplateBeginEditable name="EditRegion4" -->
+	                <tr>
+	                  <td colspan="7" class="Style181"><table width="907" border="0" cellpadding="2" cellspacing="0">
+	                    <!-- TemplateBeginEditable name="EditRegion4" -->
+	                      <tr>
+	                        <td colspan="7" class="Style181">&nbsp;</td>
+                          </tr>
+	                      <tr>
+	                        <td width="22%" height="110"><a href="javascript:;" onclick="MM_openBrWindow('../ventanas PEREGRINOS/90 millas.htm','','scrollbars=yes,width=590,height=470')"><img src="../IMAGES/PEREGRINOS FB/90 MILLAS.jpg" alt="small product photo" width="200" height="110" border="0" /></a></td>
+	                        <td>&nbsp;</td>
+	                        <td width="22%" height="110"><a href="javascript:;" onclick="MM_openBrWindow('../ventanas PEREGRINOS/marilyn.htm','','scrollbars=yes,width=590,height=470')"><img src="../IMAGES/PEREGRINOS FB/MARILYN.jpg" alt="small product photo" width="200" height="110" border="0" /></a></td>
+	                        <td>&nbsp;</td>
+	                        <td width="22%" height="110"><a href="javascript:;" onclick="MM_openBrWindow('../ventanas PEREGRINOS/chaplin.html','','scrollbars=yes,width=590,height=470')"><img src="../IMAGES/PEREGRINOS FB/CHAPLIN.jpg" alt="small product photo" width="200" height="110" border="0" /></a></td>
+	                        <td>&nbsp;</td>
+	                        <td width="22%" height="110"><a href="javascript:;" onclick="MM_openBrWindow('../ventanas PEREGRINOS/solferino.html','','scrollbars=yes,width=590,height=470')"><img src="../IMAGES/PEREGRINOS FB/SOLFERINO.jpg" alt="small product photo" width="200" height="110" border="0" /></a></td>
+                          </tr>
+	                      <tr>
+	                        <td valign="top" class="bodyText" nowrap="nowrap"><div align="center"><span class="nombres">90 MILLAS</span><br />
+	                          </div></td>
+	                        <td>&nbsp;</td>
+	                        <td valign="top" class="bodyText" nowrap="nowrap"><div align="center"><span class="Style3"><span class="nombres">MARILYN</span></span><br />
+	                          </div></td>
+	                        <td>&nbsp;</td>
+	                        <td valign="top" class="bodyText" nowrap="nowrap"><div align="center"><span class="nombres">CHAPLIN</span><br />
+	                          </div></td>
+	                        <td>&nbsp;</td>
+	                        <td valign="top" class="bodyText" nowrap="nowrap"><div align="center"><span class="nombres">SOLFERINO</span><br />
+	                          </div></td>
+                          </tr>
+	                      <tr>
+	                        <td colspan="7">&nbsp;</td>
+                          </tr>
+	                      <tr>
+	                        <td height="110"><a href="javascript:;" onclick="MM_openBrWindow('../ventanas PEREGRINOS/lady di.html','','width=590,height=470')"><img src="../IMAGES/PEREGRINOS FB/LADY DI.jpg" alt="small product photo" width="200" height="110" border="0" /></a></td>
+	                        <td>&nbsp;</td>
+	                        <td height="110"><a href="javascript:;" onclick="MM_openBrWindow('../ventanas PEREGRINOS/che.html','','scrollbars=yes,width=590,height=470')"><img src="../IMAGES/PEREGRINOS FB/CHE.jpg" alt="small product photo" width="200" height="110" border="0" /></a></td>
+	                        <td>&nbsp;</td>
+	                        <td height="110"><a href="javascript:;" onclick="MM_openBrWindow('../ventanas PEREGRINOS/lennon.html','','scrollbars=yes,width=590,height=470')"><img src="../IMAGES/PEREGRINOS FB/LENNON.jpg" alt="small product photo" width="200" height="110" border="0" /></a></td>
+	                        <td>&nbsp;</td>
+	                        <td height="110"><a href="javascript:;" onclick="MM_openBrWindow('../ventanas PEREGRINOS/la milagrosa.html','','scrollbars=yes,width=590,height=470')"><img src="../IMAGES/PEREGRINOS FB/LA MILAGROSA.jpg" alt="small product photo" width="200" height="110" border="0" /></a></td>
+                          </tr>
+	                      <tr>
+	                        <td valign="top" class="bodyText" nowrap="nowrap"><div align="center"><span class="nombres">LADY DI</span></div></td>
+	                        <td>&nbsp;</td>
+	                        <td valign="top" class="bodyText" nowrap="nowrap"><div align="center"><span class="nombres">CHE</span><br />
+	                          </div></td>
+	                        <td>&nbsp;</td>
+	                        <td valign="top" class="bodyText" nowrap="nowrap"><div align="center"><span class="nombres">LENNON</span><br />
+	                          </div></td>
+	                        <td>&nbsp;</td>
+	                        <td valign="top" class="bodyText" nowrap="nowrap"><div align="center"><span class="nombres">LA MILAGROSA</span><br />
+	                          </div></td>
+                          </tr>
+	                      <!-- TemplateEndEditable -->
+	                    </table></td>
+                    </tr>
+	                <tr>
+	                  <td width="22%" height="110"><a href="javascript:;" onclick="MM_openBrWindow('../ventanas PEREGRINOS/hemingway.html','','scrollbars=yes,width=590,height=470')"><img src="../IMAGES/PEREGRINOS FB/HEMINGWAY.jpg" alt="small product photo" width="200" height="110" border="0" /></a></td>
+	                  <td width="4%">&nbsp;</td>
+	                  <td width="22%" height="110"><a href="javascript:;" onclick="MM_openBrWindow('../ventanas PEREGRINOS/trotsky.html','','scrollbars=yes,width=590,height=470')"><img src="../IMAGES/PEREGRINOS FB/TROTSKY.jpg" alt="small product photo" width="200" height="110" border="0" /></a></td>
+	                  <td width="3%">&nbsp;</td>
+	                  <td width="22%" height="110"><a href="javascript:;" onclick="MM_openBrWindow('../ventanas PEREGRINOS/gainsbourg.html','','scrollbars=yes,width=590,height=470')"><img src="../IMAGES/PEREGRINOS FB/GAINSBOURG.jpg" alt="small product photo" width="200" height="110" border="0" /></a></td>
+	                  <td width="3%">&nbsp;</td>
+	                  <td width="24%" height="110"><a href="javascript:;" onclick="MM_openBrWindow('../ventanas PEREGRINOS/guadalupe.html','','scrollbars=yes,width=590,height=470')"><img src="../IMAGES/PEREGRINOS FB/GUADALUPE.jpg" alt="small product photo" width="200" height="110" border="0" /></a></td>
+                    </tr>
+	                <tr>
+	                  <td valign="top" class="bodyText" nowrap="nowrap"><div align="center"><span class="Style181"><span class="nombres">HEMINGWAY</span></span><br />
+	                    </div></td>
+	                  <td>&nbsp;</td>
+	                  <td valign="top" class="bodyText" nowrap="nowrap"><div align="center"><span class="Style181"><span class="nombres">TROTSKY</span></span><br />
+	                    </div></td>
+	                  <td>&nbsp;</td>
+	                  <td valign="top" class="bodyText" nowrap="nowrap"><div align="center"><span class="Style181"><span class="nombres">GAINSBOURG</span></span><br />
+	                    </div></td>
+	                  <td>&nbsp;</td>
+	                  <td valign="top" class="bodyText" nowrap="nowrap"><div align="center"><span class="Style181"><span class="nombres">GUADALUPE</span></span></div></td>
+                    </tr>
+	                <tr>
+	                  <td colspan="7">&nbsp;</td>
+                    </tr>
+	                <tr>
+	                  <td height="110"><a href="javascript:;" onclick="MM_openBrWindow('../ventanas PEREGRINOS/diego.html','','scrollbars=yes,width=590,height=470')"><img src="../IMAGES/PEREGRINOS FB/DIEGO.jpg" alt="small product photo" width="200" height="110" border="0" /></a></td>
+	                  <td>&nbsp;</td>
+	                  <td height="110"><a href="javascript:;" onclick="MM_openBrWindow('../ventanas PEREGRINOS/frida.html','','scrollbars=yes,width=590,height=470')"><img src="../IMAGES/PEREGRINOS FB/FRIDA.jpg" alt="small product photo" width="200" height="110" border="0" /></a></td>
+	                  <td>&nbsp;</td>
+	                  <td height="110"><a href="javascript:;" onclick="MM_openBrWindow('../ventanas PEREGRINOS/versache.html','','scrollbars=yes,width=620,height=470')"><img src="../IMAGES/PEREGRINOS FB/VERSACHE.JPG" alt="VERSACHE" width="200" height="110" border="0" /></a></td>
+	                  <td>&nbsp;</td>
+	                  <td height="110">&nbsp;</td>
+                    </tr>
+	                <tr>
+	                  <td valign="top" class="bodyText" nowrap="nowrap"><div align="center"><span class="Style181"><span class="nombres">DIEGO</span></span></div></td>
+	                  <td>&nbsp;</td>
+	                  <td valign="top" class="bodyText" nowrap="nowrap"><div align="center"><span class="Style181"><span class="nombres">FRIDA</span></span></div></td>
+	                  <td>&nbsp;</td>
+	                  <td valign="top" class="bodyText" nowrap="nowrap"><div align="center">
+	                    <div align="center">
+	                      <div align="center"><span class="Style181"><span class="nombres">VERSACHE</span></span> <br />
+	                        </div>
+	                      </div>
+	                    </div></td>
+	                  <td>&nbsp;</td>
+	                  <td valign="top" class="bodyText" nowrap="nowrap"><br /></td>
+                    </tr>
+	                <tr>
+	                  <td colspan="7">&nbsp;</td>
+                    </tr>
+	                <!-- TemplateEndEditable -->
+                </table></td>
+	          <td><p align="right" class="Style3">&nbsp;</p></td>
+	          </tr>
+	        <tr>
+	          <td width="15">&nbsp;</td>
+	          <td width="4">&nbsp;</td>
+	          <td width="939">&nbsp;</td>
+	          <td width="20">&nbsp;</td>
+	          </tr>
+          </table></td>
+        </tr>
+      </table>
+	  <p align="center">&nbsp;</p></td>
+	<td><p align="right" class="Style3">&nbsp;</p>	  </td>
+	</tr>
+
+	<tr>
+	<td width="15">&nbsp;</td>
+    <td width="4">&nbsp;</td>
+    <td width="939">&nbsp;</td>
+	<td width="20">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>

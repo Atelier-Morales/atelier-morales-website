@@ -1,0 +1,362 @@
+/*
+Theme Name: atelier morales
+Theme URI: http://www.ateliermorales.com
+Description: atelier morales website css
+Author: Fernan Morales > fernan.moralesayuso@gmail.com
+Version: 1.0
+License: Private
+*/
+
+#header{
+	 margin: 20px auto 20px;
+    position:relative;
+    width: 1280px;
+    padding: 10px 0 0;
+    z-index: 3 
+}
+
+#logo{
+	 padding-left: 50px; 
+}
+
+#navigation {
+    position: absolute;
+    right: 0;
+    top: -10%;
+    padding: 8px 5px 0;
+}
+
+#nav{
+    list-style:none inside none;
+    font-weight:bold;
+    margin-bottom:2px;
+    float:right;
+    width:100%;
+    position:relative;
+}
+
+#nav li{
+    float:left;
+    margin-right:2px;
+    position:relative;
+    background-color: #fff;
+}
+
+#nav a{
+    display:block;
+    font-family: Helvetica, sans-serif;
+    padding:20px;
+    color: #fff;
+    background-color: #CC0150;
+    text-decoration:none;
+    -webkit-transition: color .5s ease-in-out;
+    -moz-transition: color .5s ease-in-out;
+    -o-transition: color .5s ease-in-out;
+    -ms-transition: color .5s ease-in-out;
+    transition: color .5s ease-in-out;
+}
+
+#nav a:hover{
+    color:rgb(0, 0, 0);
+    background-color: rgb(204, 204, 204);
+    text-decoration:none;
+}
+
+#nav ul{
+	background:#fff;
+   list-style:none;
+   position:absolute;
+   left: -9999px;
+   padding-left: 0;
+   padding-right: 0;
+   
+   opacity: 0;
+    -webkit-border-radius: 0 0 5px 5px;
+    -moz-border-radius: 0 0 5px 5px;
+    border-radius: 0 0 5px 5px;
+ 
+    -webkit-transition: opacity .25s ease .1s;
+    -moz-transition: opacity .25s ease .1s;
+    -o-transition: opacity .25s ease .1s;
+    -ms-transition: opacity .25s ease .1s;
+    transition: opacity .25s ease .1s;    
+}
+
+#nav ul li{
+    padding-top:2px;
+    padding-right: 0; 
+    float:none;
+    margin-right: 0;
+    -webkit-transition: height .25s ease .1s;
+    -moz-transition: height .25s ease .1s;
+    -o-transition: height .25s ease .1s;
+    -ms-transition: height .25s ease .1s;
+    transition: height .25s ease .1s;
+}
+
+#nav ul a{
+    white-space:nowrap; 
+}
+
+#nav li:hover ul{ 
+    left:0;
+    opacity: 1;
+}
+
+#nav li:hover a{
+	color:rgb(0, 0, 0); 
+    background:rgb(204, 204, 204);
+    text-decoration:none;
+}
+
+#nav li:hover ul a{
+    text-decoration:none;
+}
+
+#nav li:hover ul li a:hover{
+	color: #fff;
+    background:#333;
+}
+
+#body{
+	 margin: 20px auto 20px;
+	 position:relative;
+    width: 1280px;
+    padding: 0 0 0;
+    z-index: 2;
+}
+
+#body-2{
+	 margin: 20px auto 20px;
+	 position:relative;
+    width: 1200px;
+    padding: 0 0 0;
+    z-index: 2;
+}
+
+#fadeshow1{
+	z-index: 1;
+}
+
+#fadeshow2{
+	z-index: 1;
+}
+
+#foot{
+	 margin: 5px auto 5px;
+    position:relative;
+    width: 1280px;
+    padding: 2px 0 0;
+}
+
+#descript a{
+    display:block;
+    font-family: Helvetica, sans-serif;
+    list-style:none inside none;
+    font-weight:bold;
+    font-size: 20px;
+    padding:2px;
+    color: #CC0150;
+    background-color: #fff;
+    text-decoration: none;
+}
+
+#art-descript a{
+    display:block;
+    font-family: Helvetica, sans-serif;
+    list-style:none inside none;
+    font-weight:bold;
+    font-size: 16px;
+    padding:2px;
+    color: #333;
+    background-color: #fff;
+    text-decoration: none;
+    -webkit-transition: color .5s ease-in-out;
+    -moz-transition: color .5s ease-in-out;
+    -o-transition: color .5s ease-in-out;
+    -ms-transition: color .5s ease-in-out;
+    transition: color .5s ease-in-out;
+}
+
+#art-descript-2 a{
+    display:block;
+    font-family: Helvetica, sans-serif;
+    list-style:none inside none;
+    font-weight:bold;
+    font-size: 16px;
+    padding:0.5px;
+    color: #333;
+    background-color: #fff;
+    text-decoration: none;
+    -webkit-transition: color .5s ease-in-out;
+    -moz-transition: color .5s ease-in-out;
+    -o-transition: color .5s ease-in-out;
+    -ms-transition: color .5s ease-in-out;
+    transition: color .5s ease-in-out;
+}
+
+#art-descript a:hover{
+     color:#CC0150;
+ }
+ 
+#art-descript-2 a:hover{
+     color:#CC0150;
+ }
+
+#alt{
+    font-family: Helvetica, sans-serif;
+    font-weight:bold;
+    font-size: 20px;
+    color:rgb(0, 0, 0);
+    background-color: #fff;
+    text-decoration: none;
+}
+
+#copyright{
+    font-family: Helvetica, sans-serif;
+    font-weight:bold;
+    font-size: 12px;
+    text-align: center;
+    color:rgb(148, 149, 149);
+    background-color: #fff;
+}
+
+#copyright a{
+    font-family: Helvetica, sans-serif;
+    font-weight:bold;
+    font-size: 12px;
+    text-align: center;
+    color:rgb(148, 149, 149);
+    background-color: #fff;
+    text-decoration: none;
+}
+
+#title{
+    font-family: Helvetica, sans-serif;
+    font-weight:bold;
+    font-size: 20px;
+    color:rgb(0, 0, 0) ;
+    background-color: #fff;
+    text-decoration: none;
+    padding-left: 50px;
+    text-align: left;
+}
+
+#title-2{
+    font-family: Helvetica, sans-serif;
+    font-weight:bold;
+    font-size: 20px;
+    color:rgb(0, 0, 0) ;
+    background-color: #fff;
+    text-decoration: none;
+    padding-left: 10px;
+    padding-top: 0;
+    text-align: left;
+    margin-top: 0;
+}
+
+#desc-text{
+    font-family: Helvetica, sans-serif;
+    font-weight: normal;
+    font-size: 20px;
+    color:rgb(0, 0, 0);
+    background-color: #fff;
+    text-decoration: none;
+    padding-top: 20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    text-align: justify;
+}
+
+#title-a{
+    color:#CC0150;
+}
+
+#italic{
+	font-style: italic;	
+	}
+
+#sponsors{
+    font-size: 15px;
+}
+
+#toTop {
+	display: none;
+	text-decoration: none;
+    -moz-text-blink: none;
+    -moz-text-decoration-color: -moz-use-text-color;
+    -moz-text-decoration-line: none;
+    -moz-text-decoration-style: solid;
+	position: fixed;
+	bottom: 10px;
+	right: 10px;
+	overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+	width: 51px;
+	height: 51px;
+	border: medium none;
+    border-top-width: medium;
+    border-right-width-value: medium;
+    border-right-width-ltr-source: physical;
+    border-right-width-rtl-source: physical;
+    border-bottom-width: medium;
+    border-left-width-value: medium;
+    border-left-width-ltr-source: physical;
+    border-left-width-rtl-source: physical;
+    border-top-style: none;
+    border-right-style-value: none;
+    border-right-style-ltr-source: physical;
+    border-right-style-rtl-source: physical;
+    border-bottom-style: none;
+    border-left-style-value: none;
+    border-left-style-ltr-source: physical;
+    border-left-style-rtl-source: physical;
+    border-top-color: -moz-use-text-color;
+    border-right-color-value: -moz-use-text-color;
+    border-right-color-ltr-source: physical;
+    border-right-color-rtl-source: physical;
+    border-bottom-color: -moz-use-text-color;
+    border-left-color-value: -moz-use-text-color;
+    border-left-color-ltr-source: physical;
+    border-left-color-rtl-source: physical;
+    -moz-border-top-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-bottom-colors: none;
+    -moz-border-left-colors: none;
+    border-image-source: none;
+    border-image-slice: 100% 100% 100% 100%;
+    border-image-width: 1 1 1 1;
+    border-image-outset: 0 0 0 0;
+    border-image-repeat: stretch stretch;
+	text-indent: -999px;
+	background: url("../assets/ui.totop.png") no-repeat scroll left top transparent;
+    background-color: transparent;
+    background-image: url("../assets/ui.totop.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: left top;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-size: auto auto;
+ }
+
+#toTopHover {
+	background: url("../assets/ui.totop.png") no-repeat scroll left -50px transparent;
+    background-color: transparent;
+    background-image: url("../images/ui.totop.png");
+    background-repeat: no-repeat;
+    background-attachment: scroll;
+    background-position: left -50px;
+    background-clip: border-box;
+    background-origin: padding-box;
+    background-size: auto auto;
+	width: 50px;
+	height: 50px;
+	display: block;
+	overflow: hidden;
+    overflow-x: hidden;
+    overflow-y: hidden;
+	float: left;
+	opacity: 0;
+}

@@ -1,0 +1,97 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<!-- DW6 -->
+<head>
+<!-- Copyright 2005 Macromedia, Inc. All rights reserved. -->
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>Restaurant - Catalogue</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<link rel="stylesheet" href="file:///C|/Documents and Settings/Tere/Mes documents/SITE ATELIER MORALES/Templates/mm_restaurant1.css" type="text/css" />
+<style type="text/css">
+<!--
+.Style10 {
+	color: #FF0080;
+	font-size: 55px;
+}
+.Style9 {font-family: Arial, Helvetica, sans-serif;
+	font-size: 59px;
+	color: #000000;
+}
+.Style3 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 14px;
+	color: #FF0080;
+	font-weight: bold;
+}
+.Style18 {font-size: 14px; font-weight: bold; font-family: Arial, Helvetica, sans-serif;}
+body {
+	background-color: #FFFFFF;
+}
+body,td,th {
+	color: #000000;
+	background-color: #FFFFFF;
+}
+.Style19 {
+	color: #000000;
+	font-family: Arial, Helvetica, sans-serif;
+}
+.Style19 {font-size: 24px}
+.Style20 {font-size: 55px}
+.Style21 {color: #FF0080}
+-->
+</style>
+<!-- TemplateBeginEditable name="head" --><!-- TemplateEndEditable -->
+</head>
+<body>
+<table width="110%" border="0" cellspacing="0" cellpadding="0">
+  <tr bgcolor="#99ccff">
+	<td width="15" nowrap="nowrap" bgcolor="#FFFFFF">&nbsp;</td>
+	<td height="60" colspan="4" nowrap="nowrap" bgcolor="#FFFFFF" class="logo"><div align="left">
+	  <p><br />
+	    <span class="Style9"><span class="Style10"> a</span><span class="Style20">telier<span class="Style21">m</span>orales</span></span> <span class="Style9"><a href="javascript:;"></p>
+	  </div></td>
+	<td width="20" bgcolor="#FFFFFF">&nbsp;</td>
+  </tr>
+
+	<tr bgcolor="#003399">
+	<td width="15" nowrap="nowrap" bgcolor="#C0C0C0">&nbsp;</td>
+	<td height="34" colspan="4" nowrap="nowrap" bgcolor="#C0C0C0" class="navText" id="navigation"><table width="911" height="26" border="0">
+      <tr>
+        <th width="131" class="Style18" scope="row"><div align="center">ACCUEIL</div></th>
+        <td width="131" class="Style18"><div align="center">SERIES</div></td>
+        <td width="131" class="Style18"><div align="center">EXPOSITIONS</div></td>
+        <td width="131" class="Style18"><div align="center">GALERIES</div></td>
+        <td width="97" class="Style18"><div align="center">CV</div></td>
+        <td width="130" class="Style18"><div align="center">TEXTES</div></td>
+        <td width="130" class="Style18"><div align="center" class="Style21">CONTACT</div></td>
+      </tr>
+    </table></td>
+	<td bgcolor="#C0C0C0">&nbsp;</td>
+	</tr>
+
+	<tr bgcolor="#ffffff">
+	<td width="15" valign="top"><img src="file:///C|/Documents and Settings/Tere/Mes documents/SITE ATELIER MORALES/Templates/mm_spacer.gif" alt="" width="8" height="1" border="0" /></td>
+	<td width="4" valign="top"><p align="right" class="Style3">&nbsp;</p>
+	  <p align="right" class="Style3">&nbsp;</p>
+	  <p align="left" class="Style3">&nbsp;</p>	  </td>
+	<td width="939" valign="top"><p align="left"><!-- TemplateBeginEditable name="EditRegion3" --><img src="" alt="" name="" width="968" height="429" align="middle" style="background-color: #ECE9D8" /><!-- TemplateEndEditable --><br />
+      </p>
+	  <table width="908" height="707" border="0" cellpadding="2" cellspacing="0">
+	  </table>	  </td>
+	<td width="939" valign="top">&nbsp;</td>
+	<td width="939" valign="top">&nbsp;</td>
+	<td><p align="right" class="Style3">&nbsp;</p>	  </td>
+	</tr>
+
+	<tr>
+	<td width="15">&nbsp;</td>
+    <td width="4">&nbsp;</td>
+    <td width="939">&nbsp;</td>
+	<td width="939">&nbsp;</td>
+	<td width="939">&nbsp;</td>
+	<td width="20">&nbsp;</td>
+  </tr>
+</table>
+</body>
+</html>
