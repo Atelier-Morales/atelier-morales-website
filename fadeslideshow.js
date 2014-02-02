@@ -45,13 +45,13 @@ function fadeSlideShow(settingarg){
 	jQuery(document).ready(function($){ //fire on DOM ready
 		var setting=slideshow.setting
 		var fullhtml=fadeSlideShow.routines.getFullHTML(setting.imagearray) //get full HTML of entire slideshow
-		setting.$wrapperdiv=$('#'+setting.wrapperid).css({position:'relative', visibility:'visible', background:'black', overflow:'hidden', width:setting.dimensions[0], height:setting.dimensions[1]}).empty() //main slideshow DIV
+		setting.$wrapperdiv=$('#'+setting.wrapperid).css({position:'relative', visibility:'visible', background:'white', overflow:'hidden', width:setting.dimensions[0], height:setting.dimensions[1]}).empty() //main slideshow DIV
 		if (setting.$wrapperdiv.length==0){ //if no wrapper DIV found
 			alert("Error: DIV with ID \""+setting.wrapperid+"\" not found on page.")
 			return
 		}
 		setting.$gallerylayers=$('<div class="gallerylayer"></div><div class="gallerylayer"></div>') //two stacked DIVs to display the actual slide 
-			.css({position:'absolute', left:0, top:0, width:'100%', height:'100%', background:'black'})
+			.css({position:'absolute', left:0, top:0, width:'100%', height:'100%', background:'white'})
 			.appendTo(setting.$wrapperdiv)
 		var $loadingimg=$('<img src="'+fadeSlideShow_descpanel.controls[2][0]+'" style="position:absolute;width:'+fadeSlideShow_descpanel.controls[2][1]+';height:'+fadeSlideShow_descpanel.controls[2][2]+'" />')
 			.css({left:setting.dimensions[0]/2-fadeSlideShow_descpanel.controls[2][1]/2, top:setting.dimensions[1]/2-fadeSlideShow_descpanel.controls[2][2]}) //center loading gif
