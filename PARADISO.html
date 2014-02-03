@@ -117,10 +117,31 @@ function MM_openBrWindow(theURL,winName,features) { //v2.0
    </a>
    <a target="blank" href="http://fr.linkedin.com/pub/atelier-morales-juan-luis-morales/35/285/53b/">
         <img alt="Linkedin Link" src="assets/Linkedin-icon.png" width="12px" height="12px"></img>
-   </a>
+   	</a>
 	</div>
+	<a href="#" id="toTop">To Top</a>
 </div>
+	<!-- JavaScript -->
+	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
+	<script>
+		$(document).ready(function() {
+			// Show or hide the sticky footer button
+			$(window).scroll(function() {
+				if ($(this).scrollTop() > 200) {
+					$('#toTop').fadeIn(200);
+				} else {
+					$('#toTop').fadeOut(200);
+				}
+			});
+			
+			// Animate the scroll to top
+			$('#toTop').click(function(event) {
+				event.preventDefault();
+				
+				$('html, body').animate({scrollTop: 0}, 300);
+			})
+		});
+	</script>
 <!-- END footer -->
-
 </body>
 </html>
