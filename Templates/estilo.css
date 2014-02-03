@@ -204,6 +204,18 @@ License: Private
      color:#CC0150;
  }
 
+ #art-descript-3 {
+    display:block;
+    font-family: Helvetica, sans-serif;
+    list-style:none inside none;
+    font-weight:bold;
+    font-size: 16px;
+    padding:2px;
+    color: #333;
+    background-color: #fff;
+    text-decoration: none;
+}
+
 #alt{
     font-family: Helvetica, sans-serif;
     font-weight:bold;
