@@ -295,6 +295,7 @@ License: Private
 
 #toTop {
     position:fixed;
+	z-index: 2;
 	font-family: Helvetica, sans-serif;
 	bottom: 2em;
 	padding: 20px;
