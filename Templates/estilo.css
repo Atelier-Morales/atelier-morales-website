@@ -315,3 +315,17 @@ License: Private
 #toTop:hover {
 	background-color:#333;
 }
+
+/*DARKEN*/
+.brighten img {
+  -webkit-filter: brightness(80%);
+  -webkit-transition: all 1s ease;
+     -moz-transition: all 1s ease;
+       -o-transition: all 1s ease;
+      -ms-transition: all 1s ease;
+          transition: all 1s ease;
+}
+ 
+.brighten img:hover {
+  -webkit-filter: brightness(130%);
+}
